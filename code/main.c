@@ -1,4 +1,7 @@
 
+/* 
+	Stupid comments
+*/
 #include <stdio.h>
 
 int main(int argn, char* argvp[])
